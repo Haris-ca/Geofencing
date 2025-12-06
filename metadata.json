@@ -1,0 +1,8 @@
+
+{
+  "name": "GeoGuard Pro",
+  "description": "A comprehensive geofencing dashboard allowing users to manage zones, simulate location changes, and track automated device mode switching logic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
